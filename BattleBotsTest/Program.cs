@@ -6,7 +6,7 @@ namespace BattleBotsTest
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("ih");
         }
     }
 }
